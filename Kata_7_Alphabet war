@@ -59,7 +59,7 @@ function alphabetWar(fight) {
     }
 }
 
-//Sorter solution
+//Shorter solution
 
 function alphabetWar(fight) {
     let score = 0;
